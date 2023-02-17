@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xaiodo
+- 👋 Hi, I’m @Rostyslav
 - 👀 I’m interested in mobile developing.
 - 🌱 I’m currently learning Dart/Flutter.
 - 
