@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rostyslav
 - 👀 I’m interested in mobile developing.
 - 🌱 I’m currently learning Dart/Flutter.
-- 
-Work: 
+More contribution: 
 - React Native project with my friends - [here][react native].
 
 [react native]:https://github.com/milkanuch/RN-BankingApp "here"
